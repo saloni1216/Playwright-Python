@@ -1,8 +1,8 @@
-# 🚀 Website Load Speed Tester
+# Website Load Speed Tester
 
 A simple and beginner-friendly Python project using [Playwright](https://playwright.dev/python/) to measure how fast a website loads, open the website in a browser, and save results to a text file.
 
-## 📌 Features
+## Features
 
 ✅ Takes user input (website URL)  
 ✅ Automatically opens the website in a browser  
@@ -11,7 +11,7 @@ A simple and beginner-friendly Python project using [Playwright](https://playwri
 ✅ Appends result to a `report.txt` file (doesn't overwrite previous tests)  
 ✅ Built with `Playwright` and pure `Python` (no AI required)
 
-## ⚙️ Setup & Installation
+##  Setup & Installation
 
 ### 1. Clone the Repository
 
@@ -48,7 +48,6 @@ Result added to report.txt
 ├── page_speed_checker.py     # Main script
 ├── report.txt                # Output log file
 ├── README.md                 # GitHub README file
-└── Website_Load_Speed_Tester_Documentation.docx   # Project report
 ```
 
 ## 📄 Sample Output (`report.txt`)
@@ -74,6 +73,3 @@ You can find full documentation in the included Word file:
 
 If you find this project helpful, please ⭐ star the repo and share it with others!
 
-## 📬 License
-
-This project is open-source and free to use under the [MIT License](LICENSE).
