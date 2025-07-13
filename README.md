@@ -27,7 +27,7 @@ pip install playwright
 playwright install
 ```
 
-## ▶ How to Run
+##  How to Run
 
 ```bash
 python page_speed_checker.py
